@@ -2,7 +2,7 @@
 
 <p>Portfolio desenvolvido como desafio para conclusão do curso de Javascript da DIO.me</p>
 
-<p>Link para o <a href="https://allandnz.github.io/projeto-dev-em-dobro/" target="_blank">site</a> hospedado no github pages.</p>
+<p>Link para o <a href="https://allandnz.github.io/Portfolio/" target="_blank">site</a> hospedado no github pages.</p>
 
 <h2>Tecnologias utilizadas:</h2>
 <div style="display: inline_block"><br>
