@@ -1,0 +1,32 @@
+@media only screen and (min-width: 768px) {
+    .header {
+        display: grid;
+        grid-template-areas:
+            "photo title"
+            "photo information"
+        ;
+    }
+
+    .header .photo {
+        grid-area: photo;
+        margin: 0 auto;
+    }
+
+    .header .title {
+        grid-area: title;
+        text-align: start;
+        max-width: 210px;
+    }
+
+    .header .information {
+        grid-area: information;
+    }
+
+    .skills {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
+

@@ -1,0 +1,91 @@
+{
+    "name": "Allan Cristhian",
+    "photo": "https://avatars.githubusercontent.com/u/108832938?v=4",
+    "job": "Desenvolvedor Junior",
+    "location": "João Pessoa - PB",
+    "phone": "(83) 98729-2899",
+    "email": "allancristhianjpá@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "Nodejs",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/nodejs.png"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/js.png"
+            },
+            {
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/react.png"
+            },
+            {
+                "name": "Python",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/python.png"
+            },
+            {
+                "name": "Git",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/git.png"
+            },
+            {
+                "name": "HTML",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/html.png"
+            },
+            {
+                "name": "CSS",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/css.png"
+            },
+            {
+                "name": "VsCode",
+                "logo": "https://raw.githubusercontent.com/AllanDnz/Portfolio/main/data/imgs/vscode.png"
+            }
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança",
+            "Trabalho em equipe",
+            "Flexibilidade",
+            "Organização"
+        ]
+    },
+    "languages": [
+        "Português",
+        "Inglês (intermediário)",
+        "Espanhol (iniciante)",
+        "Frances (iniciante)"
+    ],
+    "portfolio": [
+        {
+            "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+            "url": "https://github.com/AllanDnz/Pokedex-API",
+            "github": true
+        },
+        {
+            "name": "Desafio desenvolvido para estudo",
+            "url": "https://github.com/AllanDnz/CalculadoraDePitagoras",
+            "github": true
+        },
+        {
+            "name": "Projeto desenvolvido no Curso dos Irmao Dev em Dobro",
+            "url": "https://github.com/AllanDnz/projeto-dev-em-dobro",
+            "github": true
+        },
+        {
+            "name": "Projeto desenvolvido no Curso de CSS da Dio",
+            "url": "https://github.com/AllanDnz/trilha-css-dio-io",
+            "github": true
+        }
+    ],
+    "formationsExperience": [
+        {
+            "name": "Engenharia da Computação UFPB",
+            "period": "2022 - Cursando atualmente",
+            "description": "Focado na parte de software para aperfeiçoar meus conhecimentos em front-end, back-end e também com interesses em IA."
+        },
+        {
+            "name": "Técnico em Eletrotécnica IFPB",
+            "period": "2016 - 2021",
+            "description": "Experiência íncrivel de aprendizado acadêmico e profissional com professores que certamente trabalharei em conjunto futuramente."
+        }
+    ]
+}
